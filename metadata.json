@@ -1,0 +1,6 @@
+{
+  "name": "Duo Ludo",
+  "description": "A native two-player Ludo duel featuring 5 geometric maps, Classic & Drama dice modes, Chill/Smart/Genius Robo AI, interactive tutorial, and local match statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
